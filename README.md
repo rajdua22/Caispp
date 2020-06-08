@@ -15,3 +15,8 @@ Build a RNN to classify Trump's tweets vs. Obama's tweets
 **Online lesson:**
 
 - [Lesson 9 (Next steps)](http://caisplusplus.usc.edu/blog/curriculum/lesson9)
+
+## Neural Networks Workshop (Lessons 4)
+
+**Online lessons:** 
+* [Lesson 4 (Neural Networks, Architecture)](http://caisplusplus.usc.edu/blog/curriculum/lesson4)
